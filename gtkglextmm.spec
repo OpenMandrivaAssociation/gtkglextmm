@@ -1,6 +1,6 @@
 Name:			gtkglextmm
 Version:		1.2.0
-Release:		%mkrel 1
+Release:		%mkrel 2
 
 %define	major		0
 %define	api_version	1.2
