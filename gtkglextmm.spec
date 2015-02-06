@@ -7,7 +7,7 @@
 Summary:	Libraries for the gtkglextmm package
 Name:		gtkglextmm
 Version:	1.2.0
-Release:	5
+Release:	6
 License:	LGPLv2+
 Group:		System/Libraries
 Url:		http://www.k-3d.org/gtkglext/Main_Page
