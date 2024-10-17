@@ -10,7 +10,7 @@ Version:	1.2.0
 Release:	6
 License:	LGPLv2+
 Group:		System/Libraries
-Url:		http://www.k-3d.org/gtkglext/Main_Page
+Url:		https://www.k-3d.org/gtkglext/Main_Page
 Source0:	http://downloads.sourceforge.net/gtkglext/%{name}-%{version}.tar.bz2
 Patch0:		gtkglextmm-1.2.0-aclocal.patch
 Patch1:		gtkglextmm-1.2.0-gtk2.20.patch
